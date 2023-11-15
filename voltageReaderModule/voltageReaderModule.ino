@@ -1,10 +1,4 @@
-/*
-  vishnudas
-  github: https://github.com/vishnudas-bluefox
-  portfolio: http://vishnudasbluefox.co/
-  ZMPT101B - AC Voltage sensor
-  Calculate Voltage and write to serial port
-*/
+
 
 // initialize the variables
 double sensorValue1 = 0;
